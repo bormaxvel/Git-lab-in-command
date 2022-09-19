@@ -1,3 +1,5 @@
 Ukraine - Kyiv
 Egypt - Cairo
 TestLastCountry - TestLastСapital
+Bulgaria - Sofia
+
